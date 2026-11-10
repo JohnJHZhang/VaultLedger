@@ -202,3 +202,18 @@ Tools/
 VL_ROOT=/tmp/vl_test ./build/selftest
 ```
 
+
+## 七、软件预览图
+<img width="640" height="420" alt="00-DMG安装界面" src="https://github.com/user-attachments/assets/010b83a2-66be-44bc-ae49-733690ebe93e" />
+<img width="1240" height="800" alt="01-登录" src="https://github.com/user-attachments/assets/d0f0e986-705d-485d-bcf0-4b96aadba14d" />
+<img width="1240" height="800" alt="02-概览" src="https://github.com/user-attachments/assets/99ecfc38-4cc9-4195-a79c-e0830848246b" />
+<img width="1240" height="800" alt="03-记一笔" src="https://github.com/user-attachments/assets/8302ead8-3419-4247-bbd2-7474c819ca53" />
+<img width="1240" height="800" alt="04-收支流水" src="https://github.com/user-attachments/assets/30944030-45f0-4af9-b1be-a949c54592fb" />
+<img width="1240" height="800" alt="05-报表" src="https://github.com/user-attachments/assets/cf473b3c-5252-408d-8543-667442e4754e" />
+<img width="1240" height="800" alt="06-预算与提醒" src="https://github.com/user-attachments/assets/8829640b-3d51-42fe-ab47-eeb0ace4c2a4" />
+<img width="1240" height="800" alt="07-债务与还款" src="https://github.com/user-attachments/assets/cd7eb643-7feb-46de-a840-90c4b3e3031b" />
+<img width="1240" height="800" alt="08-五险一金" src="https://github.com/user-attachments/assets/242faa79-2035-4e15-88a4-238b3edcec54" />
+<img width="1240" height="800" alt="09-数据导出" src="https://github.com/user-attachments/assets/9ee16118-6e87-41a2-a1c7-ad815ebe0ae0" />
+<img width="1240" height="800" alt="10-安全中心" src="https://github.com/user-attachments/assets/743fdb33-f729-4f04-85bf-cbe72796dfb5" />
+
+
